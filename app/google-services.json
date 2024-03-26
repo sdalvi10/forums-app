@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333498078520",
+    "project_id": "forumsapp-2d54c",
+    "storage_bucket": "forumsapp-2d54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333498078520:android:6408ab6cc4889acdc95dcd",
+        "android_client_info": {
+          "package_name": "edu.uncc.hw07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdb7mHDjEt6IhMOFqAM0pmHMLfTWsGhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
